@@ -1,9 +1,11 @@
-<div align="center">
+⚡**HYPERSEC-OSINTFORGE**
 
-> ⚡HYPERSEC-OSINTFORGE
+> 🕵️ **We don't stalk the internet. We just ask it suspiciously specific questions.**
 
  `Rust × OSINT × Reconnaissance × Threat Intelligence`
-
+ 
+<div align="center">
+ 
 [![Rust](https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![OSINT](https://img.shields.io/badge/OSINT-8E4968?style=for-the-badge)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-342844?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
