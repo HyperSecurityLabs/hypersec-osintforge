@@ -2,13 +2,8 @@
 
 
 
-# ⚡ HYPERSEC-OSINTFORGE
-
-
-
-### `Rust × OSINT × Reconnaissance × Threat Intelligence`
-
-
+> ⚡HYPERSEC-OSINTFORGE
+ `Rust × OSINT × Reconnaissance × Threat Intelligence`
 
 [![Rust](https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![OSINT](https://img.shields.io/badge/OSINT-17324D?style=for-the-badge)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
@@ -39,369 +34,186 @@
 
 ## 🛰️ About
 
-
-
 **hypersec-osintforge** is a **production-ready, Rust-powered OSINT collection** developed by **HyperSecurity Offensive Labs (HSOL)** for authorized reconnaissance, threat intelligence, digital investigations, and security research.
-
-
 
 > **12+ specialized tools. One intelligence forge.**
 
-
-
 ---
 
-
-
-## 🔎 Specialized OSINT
+> 🔎Specialized OSINT
 
 
 
 - **Username Search** — public username and handle discovery
-
 - **WHOIS Investigation** — domain registration intelligence
-
 - **RDAP Investigation** — structured registration-data research
-
 - **URL Investigation** — URL-focused intelligence
-
 - **Node Discovery** — related public node discovery
-
 - **Reconnaissance** — authorized intelligence-gathering workflows
-
 - **Additional Tools** — more specialized OSINT utilities
 
-
-
-Tool-specific documentation and capabilities are maintained with the individual tools.
-
-
+> Tool-specific documentation and capabilities are maintained with the individual tools.
 
 ---
 
-
-
 ## 🎯 MITRE ATT&CK
-
-
 
 OSINTForge supports workflows that can map to the **Reconnaissance tactic — TA0043**, depending on the tool and research workflow.
 
-
-
 | Technique | ID |
-
 |---|---|
-
 | Active Scanning | `T1595` |
-
 | Gather Victim Network Information | `T1590` |
-
 | Gather Victim Identity Information | `T1589` |
-
 | Gather Victim Organization Information | `T1591` |
-
 | Gather Victim Host Information | `T1592` |
-
 | Gather Victim Location Information | `T1614` |
-
 | Search Open Websites/Domains | `T1593` |
-
 | Search Open Technical Databases | `T1596` |
-
 | Search Open Websites for Technical Information | `T1593` |
-
-
 
 **MITRE ATT&CK:**  
 
 https://attack.mitre.org/tactics/TA0043/
 
-
-
 > ATT&CK mappings describe relevant intelligence/reconnaissance workflows and do not mean every tool implements every technique.
 
-
-
 ---
-
 
 
 ## 🐧 Supported Platform
 
-
-
 **Linux only.**
-
-
-
 Primary target:
 
-
-
 ```text
-
 Kali Linux
-
 Linux x86_64
-
 ```
-
-
 
 The release is intended for Kali Linux and compatible **64-bit Linux environments**. Windows and macOS are not supported by this release.
 
-
-
 ### 📦 Binary Release
 
-
-
 ```text
-
 HyperSecurity-OSINT-Suite-Linux-x86_64.zip
-
 ```
-
-
-
 ---
 
 
 
-## 🚀 Build From Source
-
-
+> 🚀 Build From Source
 
 ```bash
-
 git clone https://github.com/HyperSecurityLabs/hypersec-osintforge.git
-
 cd hypersec-osintforge
-
 cargo build --release
-
 ```
-
-
 
 Release binaries are generated under:
 
-
-
 ```text
-
 target/release/
-
 ```
-
-
-
 ---
 
-
-
-## 📊 Intelligence Workflow
-
-
+> 📊 Intelligence Workflow
 
 ```text
-
 DISCOVER
-
    ↓
-
 COLLECT
-
    ↓
-
 CORRELATE
-
    ↓
-
 VALIDATE
-
    ↓
-
 ANALYZE
-
    ↓
-
 REPORT
-
 ```
-
-
-
 Reports are designed to be **modifiable**. Researchers can customize, annotate, restructure, or extend generated report output to match their investigation, documentation, or operational requirements.
 
-
-
 ---
-
-
-
-## 👥 Development & Research
-
-
-
-### ⚡ HyperSecurity Offensive Labs — HSOL
-
-
-
+> 👥 Development & Research
+>⚡HyperSecurity Offensive Labs — HSOL
 The primary organization behind OSINTForge, focused on:
-
-
 
 `OSINT` · `Reconnaissance` · `Threat Intelligence` · `Offensive Security Research` · `Security Tooling`
 
-
-
 🌐 https://hypersecurityoffseclabs.great-site.net
-
-
 
 ### 🛠️ Oxide DevOps & Security Research Team
 
-
-
 Supporting the wider HyperSecurity engineering ecosystem through:
-
-
 
 `Rust Engineering` · `DevOps` · `Security Tooling` · `Research Infrastructure` · `Testing`
 
-
-
 ---
-
-
 
 ## ⚠️ Security & Responsible Use
 
-
-
-**OSINTForge is a research and intelligence toolset — not an attack framework.**
-
-
-
+> **OSINTForge is a research and intelligence toolset — not an attack framework.**
 Use it only against information, systems, domains, or infrastructure that you **own or are explicitly authorized to investigate**.
-
-
 
 ### 🚫 Do not use it to:
 
-
-
 - Attack other people's infrastructure
-
 - Conduct unauthorized scanning or intrusion
-
 - Harass, stalk, or doxx individuals
-
 - Circumvent access controls
-
-- Abuse credentials or private information
-
+- Abuse credentials or priate information
 - Conduct unlawful surveillance
-
 - Turn intelligence gathering into unauthorized attacks
 
-
-
-Communities, projects, or actors that may be associated with malicious activity—including **Shadow Legion or similar groups**—do not provide authorization to target their infrastructure. Analyze publicly available information responsibly and follow applicable laws.
-
-
+> Communities, projects, or actors that may be associated with malicious activity—including **Shadow Legion or similar groups**—do not provide authorization to target their infrastructure. Analyze publicly available information responsibly and follow applicable laws.
 
 > **Reconnaissance is not permission to attack. Authorization comes first.**
 
-
-
 ---
-
-
 
 ## 📋 Reporting & Research
 
-
-
 If you discover an issue, inaccurate result, false positive, or improvement opportunity:
 
-
-
 1. Validate the finding.
-
 2. Preserve relevant evidence.
-
 3. Document the research context.
-
 4. Report it through the repository issue tracker.
-
 5. Modify or annotate generated reports as required for your legitimate workflow.
-
-
 
 **Issues:**  
 
 https://github.com/HyperSecurityLabs/hypersec-osintforge/issues
 
-
-
 ---
-
-
 
 ## 🔗 Official Links
 
 
 
 [![GitHub](https://img.shields.io/badge/Repository-111C2B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
-
 [![Releases](https://img.shields.io/badge/Releases-B98A38?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases)
-
 [![Issues](https://img.shields.io/badge/Issues-278A83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge/issues)
-
 [![Website](https://img.shields.io/badge/HyperSecurity_Offensive_Labs-8E4968?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hypersecurityoffseclabs.great-site.net)
-
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-264653?style=for-the-badge)](https://attack.mitre.org/)
 
-
-
 ---
-
-
 
 ## 📜 License
 
-
-
 Licensed under the **GNU General Public License v3.0**.
-
-
-
 See [`LICENSE`](LICENSE).
-
-
 
 ---
 
-
-
 <div align="center">
 
-
-
-### ⚡ HYPERSECURITY OFFENSIVE LABS
-
-
+> HYPERSECURITY OFFENSIVE LABS
 
 **Research deeply. Analyze intelligently. Publish responsibly.**
 
-
-
 `Rust × OSINT × Recon × Intelligence`
-
-
 
 [![Midnight Blue](https://img.shields.io/badge/Midnight_Blue-0B1426?style=for-the-badge)](#)
 [![Japanese Indigo](https://img.shields.io/badge/Japanese_Indigo-17324D?style=for-the-badge)](#)
@@ -409,9 +221,6 @@ See [`LICENSE`](LICENSE).
 [![Warm Gold](https://img.shields.io/badge/Warm_Gold-D5A64A?style=for-the-badge)](#)
 [![Cyber Teal](https://img.shields.io/badge/Cyber_Teal-278A83?style=for-the-badge)](#)
 
-
-
 </div>
-
 
 
