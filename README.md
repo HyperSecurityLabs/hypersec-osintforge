@@ -1,4 +1,6 @@
-#⚡**HYPERSEC-OSINTFORGE**
+**HYPERSEC-OSINTFORGE**
+
+> by Hypersecurity offensive labs
 
 > 🕵️ **We don't stalk the internet. We just ask it suspiciously specific questions.**
 
