@@ -1,4 +1,4 @@
-## HYPERSEC-OSINTFORGE
+## HyperSec-OsintForge
 
 > By Hypersecurity offensive labs
 
