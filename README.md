@@ -39,8 +39,6 @@
 
 > 🔎Specialized OSINT
 
-
-
 - **Username Search** — public username and handle discovery
 - **WHOIS Investigation** — domain registration intelligence
 - **RDAP Investigation** — structured registration-data research
@@ -48,6 +46,10 @@
 - **Node Discovery** — related public node discovery
 - **Reconnaissance** — authorized intelligence-gathering workflows
 - **Additional Tools** — more specialized tools for Daily Reconnaissance for Opsec
+  
+> Tool-specific documentation and capabilities are maintained with the individual tools.
+
+---
 
 ---
 
