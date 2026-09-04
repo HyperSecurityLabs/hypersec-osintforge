@@ -1,8 +1,7 @@
 <div align="center">
 
-
-
 > ⚡HYPERSEC-OSINTFORGE
+
  `Rust × OSINT × Reconnaissance × Threat Intelligence`
 
 [![Rust](https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
