@@ -1,4 +1,4 @@
-##⚡**HYPERSEC-OSINTFORGE**
+#⚡**HYPERSEC-OSINTFORGE**
 
 > 🕵️ **We don't stalk the internet. We just ask it suspiciously specific questions.**
 
