@@ -33,7 +33,7 @@
 
 **hypersec-osintforge** is a **production-ready, Rust-powered OSINT collection** developed by **HyperSecurity Offensive Labs (HSOL)** for authorized reconnaissance, threat intelligence, digital investigations, and security research.
 
-> **12+ specialized tools. One intelligence forge.**
+> **11+ specialized tools. One intelligence forge.**
 
 ---
 
