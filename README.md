@@ -235,7 +235,7 @@ If OSINTForge is useful to your research:
 
 <br>
 
-**[GitHub](https://github.com/HyperSecurityLabs/hypersec-osintforge) • [Website](https://hypersecurityoffseclabs.great-site.net) • [Releases](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases) • [Issues](https://github.com/HyperSecurityLabs/hypersec-osintforge/issues) • [Telegram](https://t.me/hypersecurity_offsec)** 
+[![GitHub](https://img.shields.io/badge/GitHub-9E3045?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/HyperSecurityLabs/hypersec-osintforge) [![Website](https://img.shields.io/badge/Website-668C63?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://hypersecurityoffseclabs.great-site.net) [![Releases](https://img.shields.io/badge/Releases-D5A64A?style=for-the-badge&logo=github&logoColor=141414)](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases) [![Issues](https://img.shields.io/badge/Issues-B85C83?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/HyperSecurityLabs/hypersec-osintforge/issues) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/hypersecurity_offsec)
 
 </div>
 
