@@ -21,7 +21,7 @@
 
 <br>
 
-**12+ specialized OSINT utilities • Rust • Reconnaissance • Threat Intelligence • Security Research**
+**11+ specialized OSINT utilities • Rust • Reconnaissance • Threat Intelligence • Security Research**
 
 </div>
 
