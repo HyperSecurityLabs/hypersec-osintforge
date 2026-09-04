@@ -189,8 +189,6 @@ https://github.com/HyperSecurityLabs/hypersec-osintforge/issues
 
 ## 🔗 Official Links
 
-
-
 [![GitHub](https://img.shields.io/badge/Repository-111C2B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
 [![Releases](https://img.shields.io/badge/Releases-B98A38?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases)
 [![Issues](https://img.shields.io/badge/Issues-278A83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge/issues)
@@ -214,12 +212,32 @@ See [`LICENSE`](LICENSE).
 
 `Rust × OSINT × Recon × Intelligence`
 
-[![Midnight Blue](https://img.shields.io/badge/Midnight_Blue-0B1426?style=for-the-badge)](#)
-[![Japanese Indigo](https://img.shields.io/badge/Japanese_Indigo-17324D?style=for-the-badge)](#)
-[![Deep Sakura](https://img.shields.io/badge/Deep_Sakura-B85C83?style=for-the-badge)](#)
-[![Warm Gold](https://img.shields.io/badge/Warm_Gold-D5A64A?style=for-the-badge)](#)
-[![Cyber Teal](https://img.shields.io/badge/Cyber_Teal-278A83?style=for-the-badge)](#)
+## ⭐ Support the Project
+
+If OSINTForge is useful to your research:
+
+- ⭐ Star the repository
+- 🐛 Report reproducible issues
+- 🔬 Share legitimate research findings
+- 🛠️ Contribute improvements
+- 📖 Improve documentation
+
+[![Star hypersec-osintforge](https://img.shields.io/badge/⭐_Star_the_Repository-D5A64A?style=for-the-badge)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
+
+---
+
+<div align="center">
+
+### ⚡ HYPERSECURITY OFFENSIVE LABS
+**Research deeply. Analyze intelligently. Publish responsibly.**
+
+**Rust × OSINT × Reconnaissance × Threat Intelligence**
+
+<br>
+
+[GitHub](https://github.com/HyperSecurityLabs/hypersec-osintforge) •
+[Website](https://hypersecurityoffseclabs.great-site.net) •
+[Releases](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases)
 
 </div>
-
 
