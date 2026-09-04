@@ -1,0 +1,27 @@
+[package]
+name = "identifynet"
+version = "4.0.0"
+edition = "2021"
+description = "IdentifyNet — IP intelligence and geolocation profiler"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+colored = "3"
+maxminddb = "0.24"
+rand = "0.8"
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "rustls-tls"] }
+flate2 = "1.1.9"
+tar = "0.4.46"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+strip = true
+codegen-units = 1
+panic = "abort"
+debug = false
+debug-assertions = false
+overflow-checks = false

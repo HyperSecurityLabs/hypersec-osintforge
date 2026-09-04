@@ -1,0 +1,21 @@
+[package]
+name = "exfil"
+version = "5.3.0"
+edition = "2021"
+description = "EXFIL — Data Bleed Scanner: CORS misconfiguration detection, IDOR pattern discovery, S3 bucket auditing, hidden parameter fuzzing, information disclosure analysis"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+colored = "3"
+regex = "1"
+url = "2"
+rand = "0.8"
+reqwest = { version = "0.12", features = ["rustls-tls", "socks"], default-features = false }
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1

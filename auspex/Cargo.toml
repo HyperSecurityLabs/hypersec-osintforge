@@ -1,0 +1,28 @@
+[package]
+name = "auspex"
+version = "3.9.0"
+edition = "2021"
+description = "AUSPEX — Domain Intelligence Oracle: WHOIS, RDAP, DNS correlation with cybernetic precision"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+colored = "2"
+chrono = { version = "0.4", default-features = false, features = ["clock", "serde"] }
+regex = "1"
+reqwest = { version = "0.12", default-features = false, features = ["json", "socks", "rustls-tls"] }
+rand = "0.8"
+url = "2"
+hickory-resolver = { version = "0.24", features = ["tokio"] }
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+strip = true
+codegen-units = 1
+panic = "abort"
+debug = false
+debug-assertions = false
+overflow-checks = false

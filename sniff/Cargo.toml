@@ -1,0 +1,24 @@
+[package]
+name = "sniff"
+version = "3.0.0"
+edition = "2021"
+description = "SNIFF — Subdomain hunter with passive recon, DNS brute-force, and takeover detection"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "json", "socks"] }
+rand = "0.8"
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+colored = "3"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+strip = true
+codegen-units = 1
+panic = "abort"
+debug = false
+debug-assertions = false
+overflow-checks = false
