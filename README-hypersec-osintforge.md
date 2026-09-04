@@ -70,7 +70,7 @@ Current tool categories include:
 | 🔬 **Digital Investigation** | Assist structured research and evidence-oriented workflows |
 | ➕ **Additional Utilities** | More specialized OSINT tools included across the collection |
 
-> Tool-specific documentation, commands, and capabilities are maintained in their respective directories and README files.
+
 
 ---
 
