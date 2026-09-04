@@ -21,16 +21,13 @@
 [![Stars](https://img.shields.io/github/stars/HyperSecurityLabs/hypersec-osintforge?style=for-the-badge&color=B98A38)](https://github.com/HyperSecurityLabs/hypersec-osintforge/stargazers)
 [![Website](https://img.shields.io/badge/HSOL_Website-E8A0B8?style=for-the-badge&logo=googlechrome&logoColor=141414)](https://hypersecurityoffseclabs.great-site.net)
 
+<img width="1536" height="1024" alt="file_00000000ee688211b3cb36ebe94e9068" src="https://github.com/user-attachments/assets/55ea8486-5d8c-4ef8-b738-143b999854bf" />
+ 
 <br>
-
 
 </div>
 
-
-
 ---
-
-
 
 ## 🛰️ About
 
