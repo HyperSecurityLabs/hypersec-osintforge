@@ -235,9 +235,25 @@ If OSINTForge is useful to your research:
 
 <br>
 
-[GitHub](https://github.com/HyperSecurityLabs/hypersec-osintforge) •
-[Website](https://hypersecurityoffseclabs.great-site.net) •
-[Releases](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases)
+**[GitHub](https://github.com/HyperSecurityLabs/hypersec-osintforge) • [Website](https://hypersecurityoffseclabs.great-site.net) • [Releases](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases) • [Issues](https://github.com/HyperSecurityLabs/hypersec-osintforge/issues) • [Telegram](https://t.me/hypersecurity_offsec)** 
 
 </div>
 
+
+## 🌸 Visual Identity our Secreat 
+
+The project uses a cybernetic palette inspired by deep indigo, Japanese blue, sakura, plum, pine, and cyber-teal tones.
+
+Selected project colors:
+
+[![Midnight Blue](https://img.shields.io/badge/Midnight_Blue-0B1426?style=for-the-badge)](#)
+[![Japanese Indigo](https://img.shields.io/badge/Japanese_Indigo-17324D?style=for-the-badge)](#)
+[![Deep Indigo](https://img.shields.io/badge/Deep_Indigo-243B55?style=for-the-badge)](#)
+[![Steel Blue](https://img.shields.io/badge/Steel_Blue-315B78?style=for-the-badge)](#)
+[![Sakura Pink](https://img.shields.io/badge/Sakura_Pink-E8A0B8?style=for-the-badge)](#)
+[![Rose Plum](https://img.shields.io/badge/Rose_Plum-8E4968?style=for-the-badge)](#)
+[![Pine Green](https://img.shields.io/badge/Pine_Green-2F5D50?style=for-the-badge)](#)
+[![Cyber Teal](https://img.shields.io/badge/Cyber_Teal-278A83?style=for-the-badge)](#)
+[![Electric Purple](https://img.shields.io/badge/Electric_Purple-8B6FC8?style=for-the-badge)](#)
+
+---
