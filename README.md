@@ -47,9 +47,7 @@
 - **URL Investigation** — URL-focused intelligence
 - **Node Discovery** — related public node discovery
 - **Reconnaissance** — authorized intelligence-gathering workflows
-- **Additional Tools** — more specialized OSINT utilities
-
-> Tool-specific documentation and capabilities are maintained with the individual tools.
+- **Additional Tools** — more specialized tools for Daily Reconnaissance for Opsec
 
 ---
 
