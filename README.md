@@ -8,9 +8,9 @@
  
 <div align="center">
  
-[![Rust](https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![OSINT](https://img.shields.io/badge/OSINT-8E4968?style=for-the-badge)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-342844?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Rust](https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Linux x86_64](https://img.shields.io/badge/Linux_x86__64-596B4A?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org/)
 [![Production Ready](https://img.shields.io/badge/Production_Ready-D8784A?style=for-the-badge)](#)
 [![GPL--3.0](https://img.shields.io/badge/GPL--3.0-B85C83?style=for-the-badge)](LICENSE)
