@@ -26,42 +26,7 @@
 [![Website](https://img.shields.io/badge/HSOL_Website-8E4968?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hypersecurityoffseclabs.great-site.net)
 
 
-
 <br>
-
-
-
-[![Midnight Blue](https://img.shields.io/badge/Midnight_Blue-0B1426?style=for-the-badge)](#)
-[![Ink Navy](https://img.shields.io/badge/Ink_Navy-111C2B?style=for-the-badge)](#)
-[![Japanese Indigo](https://img.shields.io/badge/Japanese_Indigo-17324D?style=for-the-badge)](#)
-[![Deep Indigo](https://img.shields.io/badge/Deep_Indigo-243B55?style=for-the-badge)](#)
-[![Steel Blue](https://img.shields.io/badge/Steel_Blue-315B78?style=for-the-badge)](#)
-[![Sky Indigo](https://img.shields.io/badge/Sky_Indigo-3E7FA6?style=for-the-badge)](#)
-
-[![Cyber Teal](https://img.shields.io/badge/Cyber_Teal-278A83?style=for-the-badge)](#)
-
-[![Deep Teal](https://img.shields.io/badge/Deep_Teal-1E5E63?style=for-the-badge)](#)
-
-[![Pine Green](https://img.shields.io/badge/Pine_Green-2F5D50?style=for-the-badge)](#)
-
-[![Bamboo Green](https://img.shields.io/badge/Bamboo_Green-668C63?style=for-the-badge)](#)
-
-[![Warm Gold](https://img.shields.io/badge/Warm_Gold-D5A64A?style=for-the-badge)](#)
-
-[![Antique Gold](https://img.shields.io/badge/Antique_Gold-B98A38?style=for-the-badge)](#)
-
-[![Sakura Pink](https://img.shields.io/badge/Sakura_Pink-E8A0B8?style=for-the-badge)](#)
-
-[![Soft Sakura](https://img.shields.io/badge/Soft_Sakura-F2B6C6?style=for-the-badge)](#)
-
-[![Deep Sakura](https://img.shields.io/badge/Deep_Sakura-B85C83?style=for-the-badge)](#)
-
-[![Rose Plum](https://img.shields.io/badge/Rose_Plum-8E4968?style=for-the-badge)](#)
-
-[![Torii Red](https://img.shields.io/badge/Torii_Red-A83F32?style=for-the-badge)](#)
-
-[![Rice Paper](https://img.shields.io/badge/Rice_Paper-E8DCC3?style=for-the-badge)](#)
-
 
 
 </div>
