@@ -5,20 +5,17 @@
  `Rust × OSINT × Reconnaissance × Threat Intelligence`
 
 [![Rust](https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![OSINT](https://img.shields.io/badge/OSINT-17324D?style=for-the-badge)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-243B55?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Linux x86_64](https://img.shields.io/badge/Linux_x86__64-315B78?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org/)
-[![Production Ready](https://img.shields.io/badge/Production_Ready-2F5D50?style=for-the-badge)](#)
-[![GPL--3.0](https://img.shields.io/badge/GPL--3.0-8E4968?style=for-the-badge)](LICENSE)
-
-
+[![OSINT](https://img.shields.io/badge/OSINT-8E4968?style=for-the-badge)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-342844?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Linux x86_64](https://img.shields.io/badge/Linux_x86__64-596B4A?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org/)
+[![Production Ready](https://img.shields.io/badge/Production_Ready-D8784A?style=for-the-badge)](#)
+[![GPL--3.0](https://img.shields.io/badge/GPL--3.0-B85C83?style=for-the-badge)](LICENSE)
 
 [![Repository](https://img.shields.io/badge/GitHub-0B1426?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge)
-[![Releases](https://img.shields.io/badge/Releases-D5A64A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases)
+[![Releases](https://img.shields.io/badge/Releases-E2C477?style=for-the-badge&logo=github&logoColor=141414)](https://github.com/HyperSecurityLabs/hypersec-osintforge/releases)
 [![Issues](https://img.shields.io/badge/Issues-278A83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperSecurityLabs/hypersec-osintforge/issues)
 [![Stars](https://img.shields.io/github/stars/HyperSecurityLabs/hypersec-osintforge?style=for-the-badge&color=B98A38)](https://github.com/HyperSecurityLabs/hypersec-osintforge/stargazers)
-[![Website](https://img.shields.io/badge/HSOL_Website-8E4968?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hypersecurityoffseclabs.great-site.net)
-
+[![Website](https://img.shields.io/badge/HSOL_Website-E8A0B8?style=for-the-badge&logo=googlechrome&logoColor=141414)](https://hypersecurityoffseclabs.great-site.net)
 
 <br>
 
